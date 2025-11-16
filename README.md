@@ -237,16 +237,17 @@ TOFF= 2.7 * 0.2 = 0.54 ms
 TOTAL TIME = 5 * 0.2 = 1ms
 FREQUENCY = 1/(TOTAL TIME) = 1Hz
 ```
+
 <img width="1920" height="1200" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/76d8fcef-f389-4e98-adbb-bbf85cd5fcc6" />
 
-
+```
 FOR PULSE AT 70%
 
 TON = 2.2 * 0.2 = 0.44ms
 TOFF= 1.3 * 0.2 = 0.26
 TOTAL TIME =  5 * 0.2 = 1ms
 FREQUENCY = 1/(TOTAL TIME) = 1 Hz
-
+```
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
